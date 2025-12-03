@@ -50,3 +50,16 @@ All required Python packages are listed in `requirements.txt`. Install them usin
 pip install -r requirements.txt
 ```
 The required packages are also stated at the start of the notebooks.
+
+## How to run
+After acquiring the datasets execute the desired notebooks.
+
+All the topics have been split into seperate notebooks:
+  - a
+  - b
+  - b
+
+The final combined notebook with the final results is:
+  - v
+  
+ 
