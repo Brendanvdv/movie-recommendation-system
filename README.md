@@ -55,11 +55,12 @@ The required packages are also stated at the start of the notebooks.
 After acquiring the datasets execute the desired notebooks.
 
 All the topics have been split into seperate notebooks:
-  - a
-  - b
-  - b
+  - build_dataset.ipynb
+  - similarity_system.ipynb
+  - movie_genre_clustering_analysis.ipynb
+  - final_topic_modelling.ipynb
 
 The final combined notebook with the final results is:
-  - v
+  - final.ipynb
   
  
