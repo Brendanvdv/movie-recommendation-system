@@ -48,3 +48,5 @@ All required Python packages are listed in `requirements.txt`. Install them usin
 
 ```bash
 pip install -r requirements.txt
+```
+The required packages are also stated at the start of the notebooks.
