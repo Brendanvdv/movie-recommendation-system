@@ -51,6 +51,6 @@ All the topics have been split into seperate notebooks:
   - final_topic_modelling.ipynb
 
 The final combined notebook with the final results is:
-  - final.ipynb
+  - final_demostration.ipynb
   
  
