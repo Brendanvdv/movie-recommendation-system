@@ -4,16 +4,6 @@
 **Institution:** Technical University of Denmark (DTU)  
 **Semester:** Autumn 2025
 
----
-
-## Team Members
-- [Member 1 Name] - Student ID
-- [Member 2 Name] - Student ID
-- [Member 3 Name] - Student ID
-- [Member 4 Name] - Student ID
-
----
-
 ## Project Summary
 
 This project implements a **hybrid movie recommendation system** that combines multiple similarity dimensions to find movies similar to a given query. Using the Rotten Tomatoes dataset, we demonstrate:
