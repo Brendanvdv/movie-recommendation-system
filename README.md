@@ -80,6 +80,7 @@ The following notebooks can be run to explore individual components:
 - `similarity_system.ipynb` - Similarity computation details
 - `movie_genre_clustering_analysis.ipynb` - Clustering analysis
 - `final_topic_modelling.ipynb` - LDA topic modeling
+- `tomatoes.ipynb` - Comparative analysis
 
 ---
 
@@ -111,11 +112,13 @@ These cache files make subsequent runs much faster (~10-20 seconds to load inste
 │   ├── hybrid_similarity.pkl
 │   ├── lda_model.pkl
 │   └── lda_dictionary.pkl
-├── build_dataset.ipynb
-├── final_demonstration.ipynb
-├── similarity_system.ipynb
-├── movie_genre_clustering_analysis.ipynb
-├── final_topic_modelling.ipynb
+├── notebooks/
+│   ├── build_dataset.ipynb
+│   ├── final_demonstration.ipynb
+│   ├── similarity_system.ipynb
+|   ├── movie_genre_clustering_analysis.ipynb
+|   ├── final_topic_modelling.ipynb
+|   ├── tomatoes.ipynb
 ├── requirements.txt
 └── README.md
 ```
