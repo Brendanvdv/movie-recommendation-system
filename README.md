@@ -80,7 +80,7 @@ The following notebooks can be run to explore individual components:
 - `similarity_system.ipynb` - Similarity computation details
 - `movie_genre_clustering_analysis.ipynb` - Clustering analysis
 - `final_topic_modelling.ipynb` - LDA topic modeling
-- `tomatoes.pynb` - Comparative analysis
+- `tomatoes.ipynb` - Comparative analysis
 
 ---
 
