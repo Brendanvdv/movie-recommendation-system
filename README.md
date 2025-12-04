@@ -42,16 +42,18 @@ pip install -r requirements.txt
 The required packages are also stated at the start of the notebooks.
 
 ## How to run
-After acquiring the datasets execute the desired notebooks.
 
-All the topics have been split into seperate notebooks:
+After acquiring the datasets run the following notebook to get the final dataset.
   - build_dataset.ipynb
+
+To run the final demonstration run:
+  - final_demostration.ipynb
+
+Then the other notebooks can be run if wanted:
   - similarity_system.ipynb
   - movie_genre_clustering_analysis.ipynb
   - final_topic_modelling.ipynb
   - tomatoes.ipynb
 
-The final combined notebook with the final results is:
-  - final_demostration.ipynb
   
  
