@@ -43,7 +43,7 @@ The required packages are also stated at the start of the notebooks.
 
 ## How to run
 
-After acquiring the datasets run the following notebook to get the final dataset.
+After acquiring the datasets run the following notebook to get the final dataset:
   - build_dataset.ipynb
 
 To run the final demonstration run:
