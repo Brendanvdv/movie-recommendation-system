@@ -64,7 +64,7 @@ SAMPLE_SIZE = 2000     # Number of movies to include
 
 - **Full mode** (`CREATE_SAMPLE = False`): Creates dataset with all ~15,500 movies
   - Processing time: ~45 minutes
-  - Recommended for final submission or comprehensive analysis
+  - Recommended for final viewing or comprehensive analysis
 
 The sampling is done at the dataset creation stage, so the rest of the pipeline requires no modifications.
 
